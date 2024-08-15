@@ -28,5 +28,5 @@
 
 | Title       | Task               | Skills and Tools |
 | ------------- |:------------------:| -----:|
-| Car-sharing  |   Create a model for assessing the driving risks     |   SQLAlchemy, Optuna, Sweetviz, Scikit-learn, CatBoostClassifier, LGBMClassifier, PostgreSQL |
+| [Car-sharing](https://github.com/ave-a-git/YP-study-projects/blob/main/car_sharing/car_sharing_project.ipynb)  |   Create a model for assessing the driving risks     |   SQLAlchemy, Optuna, Sweetviz, Scikit-learn, CatBoostClassifier, LGBMClassifier, PostgreSQL |
 </details>
