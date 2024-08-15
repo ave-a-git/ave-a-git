@@ -23,7 +23,7 @@
 
 
 
-# Study projects:
+# Study projects (clickable)
 <details>
 
 <summary>Classification tasks</summary>
