@@ -3,7 +3,7 @@
 **I'm Nastya.**
 
 
-# Portfolio
+## Portfolio
 
 | Title       | Task               | Skills and Tools |
 | ------------- |:------------------:| -----:|
@@ -21,9 +21,7 @@
 
 
 
-
-
-# Study projects (clickable)
+#### Study projects (clickable)
 <details>
 
 <summary>Classification tasks</summary>
