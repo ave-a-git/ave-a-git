@@ -30,3 +30,8 @@
 | ------------- |:------------------:| -----:|
 | [Car-sharing](https://github.com/ave-a-git/YP-study-projects/blob/main/car_sharing/car_sharing_project.ipynb)  |   Create a model for assessing the driving risks     |   SQLAlchemy, Optuna, Sweetviz, Scikit-learn, CatBoostClassifier, LGBMClassifier, PostgreSQL |
 </details>
+
+
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ave-a-git&style=flat-square&color=grey" alt=""/>
+</div>
