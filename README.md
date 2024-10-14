@@ -7,7 +7,7 @@
 
 | Title       | Task               | Skills and Tools |
 | ------------- |:------------------:| -----:|
-| [Music Genres](https://github.com/ave-a-git/portfolio/blob/main/music_genres/music_genres.ipynb)     | Develop a model that clasiffies music by genre   | Pandas, Phik, LogisticRegression, RandomForestClassififer, SMOTE, RandomUnderSampler |
+| [Music Genres](https://github.com/ave-a-git/portfolio/blob/main/music_genres/music_genres.ipynb)     | Develop a model that clasiffies music by genre   | Pandas, Phik, LogisticRegression, RandomForestClassifier, SMOTE, RandomUnderSampler |
 
 
 
